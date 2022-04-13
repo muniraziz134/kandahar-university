@@ -1,0 +1,1 @@
+This folder will hold all the possible images in the project

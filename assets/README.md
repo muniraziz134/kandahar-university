@@ -1,0 +1,1 @@
+This folder will contain all the assets of the project such as: Libraries, frameworks and more
