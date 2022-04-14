@@ -1,1 +1,72 @@
-/* This will be the main file for styling */
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.main-page__image {
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin-bottom: 60px;
+}
+
+.main-page__image img {
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    width: 100%;
+    align-content: center;
+}
+
+.content__header {
+    width: 350px;
+    margin: 10px auto;
+}
+
+.content__paragraph {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.plan {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.plan__one {
+    width: 25%;
+    padding: 10px 10px;
+    margin: 0 10px;
+    box-shadow: 1px 1px 1px 1px rgb(190, 187, 187);
+    border: 1px solid rgba(0, 0, 0, 0.171);
+    border-radius: 10px;
+
+}
+
+.plan__header {
+    text-align: center;
+}
+
+.plan__one div {
+    margin: 10px 0;
+}
+.plan__one img {
+    width: 100%;
+}
+
+
+
+footer {
+    background-color: black;
+    color: white;
+}
